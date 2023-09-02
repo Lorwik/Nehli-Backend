@@ -6,7 +6,7 @@ Nehli es una aplicación web de streaming similar a Netflix desarrollada con Ang
 
 Para instalar Nehli, sigue los siguientes pasos:
 
-1. Clona este repositorio: `git clone https://github.com/tu_usuario/tu_repositorio`
+1. Clona este repositorio: `git clone https://github.com/Lorwik/Nehli-Backend`
 2. Instala las dependencias: `npm install`
 3. Crea el archivo .env y configura las variables de entorno
 4. Inicia la aplicación: `npm start`
