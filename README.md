@@ -32,7 +32,7 @@ Si deseas contribuir a Nehli, sigue estos pasos:
 1. Haz un fork de este repositorio
 2. Crea una rama para tu contribución: `git checkout -b mi_contribucion`
 3. Realiza tus cambios y commitealos: `git commit -m "Mi contribución"`
-4. Empuja los cambios a tu repositorio: `git push origin mi_contribucion`
+4. Sube los cambios a tu repositorio: `git push origin mi_contribucion`
 5. Abre un pull request en este repositorio
 
 ## Licencia
