@@ -57,9 +57,9 @@ const registerCtrl = async (req, res) => {
 
         // Definimos el email
         var mailOptions = {
-            from: 'no-reply@winterao.com',
+            from: 'no-reply@Nehli.com',
             to: email,
-            subject: 'Comunidad Winter- Verifica tú cuenta',
+            subject: 'Nehli - Verifica tú cuenta',
             text: 'Hola ' + user + ' te damos la bienvenida a Nehli.'
         };
 
